@@ -43,7 +43,7 @@
     * ![flag_v](/screenshot/flag_v.png?raw=true)
 
 ### Contributions
-* Me
+* [nkamolba]
   * assembler - instructions/labels parsing and writing
   * vitual machine - instuction executions
 * [fxbabin](https://github.com/fxbabin)
